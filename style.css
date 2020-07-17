@@ -1,0 +1,18 @@
+/**
+ * Google Fonts Demo
+ **/
+.thought1{
+    color: burlywood;
+
+font-family: 'Caveat', cursive;
+
+}
+.thought2{
+    color: chocolate;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.thought3{
+    font-family: 'Ranchers', cursive;
+    color: darkcyan;
+}
+/* Add in the Google Fonts of your choice */
